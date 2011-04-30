@@ -6,7 +6,7 @@
 # Needed: colorpicker by lilydjwg (Need Compile with libgtk2.0)
 # https://dl.dropbox.com/u/1372730/code/colorpicker.c
 # Needed: xsel 
-#
+# Usage: Bind with hotkey (command: bash /PATH_TO/colorx.sh )
 # Input: (#RRGGBB  RRGGBB #RGB RGB )  
 # Output: (#RRGGBB RRGGBB)
 # e.g. #334455 55eeff 33FFEE #545 fe0
